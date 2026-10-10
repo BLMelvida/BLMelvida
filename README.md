@@ -1,27 +1,28 @@
-## Analytical Focus
+### About Me
+I build analytics that validate data before companies commit capital or capacity. My focus is the translation layer, turning messy business problems into the structured logic and technical engineering needed to solve them. I value clarity over complexity and believe that preventing a wrong move is just as critical as making the right one.
 
-I work on **analytics that support real decisions**, not just insight generation. <br>
-My focus is on validating whether data signals are **safe to act on** before time, budget, or operational capacity is committed.
+### Technical Toolkit
+- **Languages & Tools**: SQL, Python
+- **Analytics Engineering/ Data**: DBT, BigQuery, Advanced Spreadsheets
+- **Cloud**: Google Cloud Platform
+- **DevOps**: Docker, Git, Terraform
+- **BI & Dashboards**: Power BI
+- **OS**: Linux, Windows
 
-## What I Do
+### Projects
 
-I work across **problem framing**, **exploratory analysis**, **prioritization**, and **decision review**.
+#### Data Analytics
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **$3M Growth Allocation Decision Screen** | A risk managed investment screen that eliminates unsafe growth paths and constrains capital to options supported by scale and structural demand | SQL, Power BI | [Repo](https://github.com/BLMgithub/growth-budget-allocation)|
+| **Customer Effort Prioritization Diagnostic** | A behavior-driven prioritization diagnostic to protect limited human execution capacity | Python, Scikit-Learn | [Repo](https://github.com/BLMgithub/customer-action-prioritization)|
+| **Browse-Signal Validity Diagnostic** | A Browse-signal validity diagnostic to prevent misallocated marketing and product promotion | Google Sheet | [Workbook](https://docs.google.com/spreadsheets/d/1Qr2zez69SkkArvu7qK-lC18r0uXJF1AySdT0M_7WnW4/edit?usp=sharing)|
 
-Most of my work focuses on:
 
-- Validating whether signals are **safe to act on**
-- Making assumptions and constraints explicit
-- Narrowing options over time, not expanding them
+#### Analytics Engineering
 
-I care more about **clarity than complexity**, and about knowing what not to do.
-
-## What You'll Find Here
-
-- Decision oriented analyses
-- Exploratory work used to surface structure early
-- Reusable analysis scaffolding designed to be challenged and reused
-- Artifacts that make assumptions, constraints, and trade offs explicit
-
-<br>
-
-> **Connect with Me:** [**`Email↗`**](mailto:bryanmelvida@gmail.com) · [**`LinkedIn↗`**](https://www.linkedin.com/in/bryan-melvida) · [**`Portfolio↗`**](https://bryan-melvida.notion.site/Analytics-Portfolio-2e8b722615b48071b3bce5937ae07ec5)
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Scalabe Defensive Pipeline** | Event-driven pipeline enforcing strict data contracts and semantic modeling standards using serverless compute and atomic deployment | Python, Power BI, Google Cloud Platform, Terraform  | [Repo](https://github.com/BLMgithub/operations-analytics-pipeline) |
+| **Automated Cloud Forecast Pipeline** | Automated serverless ML forecasting pipeline with trust-gated predictions and an explainable revenue model | Python, SQL, Power BI, Google Cloud Platform, Terraform | [Repo](https://github.com/BLMgithub/automated-predictive-pipeline) |
+| **Multi-Channel P&L Pipeline** | [WIP] Multi-channel P&L pipeline computing SKU-level true net profit and centralizing fee, ad spend, refund, and FX logic in dbt | Python, DBT, SQL, Airbyte, Google Cloud Platform, Terraform |[Repo](https://github.com/BLMgithub/cross-channel-pnl) |
