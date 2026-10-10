@@ -2,12 +2,12 @@
 I build analytics that validate data before companies commit capital or capacity. My focus is the translation layer, turning messy business problems into the structured logic and technical engineering needed to solve them. I value clarity over complexity and believe that preventing a wrong move is just as critical as making the right one.
 
 ### Technical Toolkit
-- **Languages & Tools**: SQL, Python
-- **Analytics Engineering/ Data**: DBT, BigQuery, Advanced Spreadsheets
-- **Cloud**: Google Cloud Platform
-- **DevOps**: Docker, Git, Terraform
-- **BI & Dashboards**: Power BI
-- **OS**: Linux, Windows
+- Languages & Tools: `SQL`, `Python`
+- Analytics Engineering/ Data: `DBT`, `BigQuery`, `Advanced Spreadsheets`
+- Cloud: `Google Cloud Platform`
+- DevOps**: `Docker`, `Git`, `Terraform`
+- BI & Dashboards: `Power BI`
+- OS: `Linux`, `Windows`
 
 ### Projects
 
