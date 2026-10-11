@@ -5,7 +5,7 @@ I build analytics that validate data before companies commit capital or capacity
 - Languages & Tools: `SQL` `Python`
 - Analytics Engineering/ Data: `DBT` `BigQuery` `Advanced Spreadsheets`
 - Cloud: `Google Cloud Platform`
-- DevOps**: `Docker` `Git` `Terraform`
+- DevOps: `Docker` `Git` `Terraform`
 - BI & Dashboards: `Power BI`
 - OS: `Linux` `Windows`
 
