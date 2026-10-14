@@ -1,13 +1,12 @@
 ### About Me
-I build analytics that validate data before companies commit capital or capacity. My focus is the translation layer, turning messy business problems into the structured logic and technical engineering needed to solve them. I value clarity over complexity and believe that preventing a wrong move is just as critical as making the right one.
 
-### Technical Toolkit
-- Languages & Tools: `SQL` `Python`
-- Analytics Engineering/ Data: `DBT` `BigQuery` `Advanced Spreadsheets`
-- Cloud: `Google Cloud Platform`
-- DevOps: `Docker` `Git` `Terraform`
-- BI & Dashboards: `Power BI`
-- OS: `Linux` `Windows`
+I build systems to validate data before companies commit capital or capacity.
+
+- **Focus**: Structured logic and technical engineering.
+- **Goal**: Preventing a wrong move is just as critical as making the right one.
+- **Values**: Clarity over complexity.
+
+**Tech Stack**: `SQL` `Python` `Dbt` `Dataform` `Airbyte` `BigQuery` `Docker` `Git` `Terraform` `Power BI` `Looker` `GCP`
 
 ### Projects
 
@@ -23,6 +22,6 @@ I build analytics that validate data before companies commit capital or capacity
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Scalabe Defensive Pipeline**](https://github.com/BLMgithub/operations-analytics-pipeline) | Event-driven pipeline enforcing strict data contracts and semantic modeling standards using serverless compute and atomic deployment | `Python` `Power BI` `Google Cloud Platform` `Terraform`  |
-| [**Automated Cloud Forecast Pipeline**](https://github.com/BLMgithub/automated-predictive-pipeline) | Automated serverless ML forecasting pipeline with trust-gated predictions and an explainable revenue model | `Python` `SQL` `Power BI` `Google Cloud Platform` `Terraform` |
-| [**Multi-Channel P&L Pipeline**](https://github.com/BLMgithub/cross-channel-pnl) | [WIP] Multi-channel P&L pipeline computing SKU-level true net profit and centralizing fee, ad spend, refund, and FX logic in dbt | `Python` `DBT` `SQL` `Airbyte` `Google Cloud Platform` `Terraform` |
+| [**Scalabe Defensive Pipeline**](https://github.com/BLMgithub/operations-analytics-pipeline) | Event-driven pipeline enforcing strict data contracts and semantic modeling standards using serverless compute and atomic deployment | `Python` `Power BI` `GCP` `Terraform`  |
+| [**Automated Cloud Forecast Pipeline**](https://github.com/BLMgithub/automated-predictive-pipeline) | Automated serverless ML forecasting pipeline with trust-gated predictions and an explainable revenue model | `Python` `SQL` `Dataform` `Power BI` `GCP` `Terraform` |
+| [**Multi-Channel P&L Pipeline**](https://github.com/BLMgithub/cross-channel-pnl) | [WIP] Multi-channel P&L pipeline computing SKU-level true net profit and centralizing fee, ad spend, refund, and FX logic in dbt | `Python` `Dbt` `SQL` `Airbyte` `GCP` `Terraform` `Looker`|
